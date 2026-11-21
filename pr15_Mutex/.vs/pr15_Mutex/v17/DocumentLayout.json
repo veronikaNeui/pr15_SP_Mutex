@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pr15_Mutex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082897E2-8518-4BA9-A88E-54BDDD96258F}|pr15_Mutex\\pr15_Mutex.vcxproj|C:\\Users\\Nika\\Desktop\\\u0412\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pr15_Mutex\\pr15_Mutex\\pr15_Mutex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{082897E2-8518-4BA9-A88E-54BDDD96258F}|pr15_Mutex\\pr15_Mutex.vcxproj|solutionrelative:pr15_Mutex\\pr15_Mutex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr15_Mutex.cpp",
+              "DocumentMoniker": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pr15_Mutex\\pr15_Mutex\\pr15_Mutex.cpp",
+              "RelativeDocumentMoniker": "pr15_Mutex\\pr15_Mutex.cpp",
+              "ToolTip": "C:\\Users\\Nika\\Desktop\\\u0412\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pr15_Mutex\\pr15_Mutex\\pr15_Mutex.cpp",
+              "RelativeToolTip": "pr15_Mutex\\pr15_Mutex.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAJsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T05:37:47.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

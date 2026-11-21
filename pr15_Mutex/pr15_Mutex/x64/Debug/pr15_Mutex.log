@@ -1,0 +1,3 @@
+﻿  pr15_Mutex.cpp
+C:\Users\Nika\Desktop\В\Системное программирование\pr15_Mutex\pr15_Mutex\pr15_Mutex.cpp(68,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr15_Mutex.vcxproj -> C:\Users\Nika\Desktop\В\Системное программирование\pr15_Mutex\x64\Debug\pr15_Mutex.exe
